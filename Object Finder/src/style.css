@@ -1,0 +1,59 @@
+body{
+    background-size: cover;
+    font-family: 'M PLUS 1 Code', sans-serif;
+}
+
+#head{
+    color:white;
+    background-color:rgba(64, 180, 209, 0.55);
+    width:80%;
+    margin-top:20px;
+    padding-top:5px;
+    font-size:40px;
+    padding-bottom:5px;
+    border-radius:15px;
+    box-shadow:5px 5px 30px rgb(37, 130, 252);
+}
+#logo{
+    padding-left:10px;
+    width: 100px;
+    height:80px;
+}
+
+.start_btn{
+    font-size:20px;
+    padding-left: 30px;
+    padding-right: 30px;
+    border:5px solid rgb(0, 186, 243);
+}
+
+label{
+    font-size:20px;
+}
+
+hr{
+    width:90%;
+    border: 5px solid rgb(128, 218, 240);
+    border-radius: 15px;
+}
+
+.footer{
+    bottom:0;
+    position:fixed;
+    width:100%;
+    text-align:center;
+    font-size:24px;
+    color:white;
+    
+
+}
+
+#red{
+    color: rgb(12, 142, 218);
+}
+
+canvas{
+    border:5px solid red;
+    border-radius:15px;
+    margin-top:90px;
+}
